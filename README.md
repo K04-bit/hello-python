@@ -1,3 +1,3 @@
-# READAME 
+# READ ME 
 
 simple python
